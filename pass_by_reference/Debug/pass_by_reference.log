@@ -1,5 +1,0 @@
-﻿  bubble_sort.cpp
-C:\Users\LPT-ucesxc0\Documents\Github-repositories\Essential_C-\pass_by_reference\bubble_sort.cpp(7): warning C4018: '<': signed/unsigned mismatch
-C:\Users\LPT-ucesxc0\Documents\Github-repositories\Essential_C-\pass_by_reference\bubble_sort.cpp(21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\LPT-ucesxc0\Documents\Github-repositories\Essential_C-\pass_by_reference\bubble_sort.cpp(22): warning C4018: '<': signed/unsigned mismatch
-  pass_by_reference.vcxproj -> C:\Users\LPT-ucesxc0\Documents\Github-repositories\Essential_C-\pass_by_reference\Debug\pass_by_reference.exe
