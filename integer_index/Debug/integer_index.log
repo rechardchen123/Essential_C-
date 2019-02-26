@@ -1,2 +1,0 @@
-﻿simulate_integer_index.obj : error LNK2005: _main already defined in integer_indxe.obj
-C:\Users\LPT-ucesxc0\Documents\Github-repositories\Essential_C-\integer_index\Debug\integer_index.exe : fatal error LNK1169: one or more multiply defined symbols found
