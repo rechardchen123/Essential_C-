@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-first_programming",
+      "appliesTo": "first_programming.cpp",
+      "type": "launch"
+    }
+  ]
+}
