@@ -13,6 +13,5 @@ int main()
 	cout << "hello, ";
 	cout << user_name<< first_name<<endl;
 	cout << "... and goodbye!\n";
-
 	return 0;
 }
